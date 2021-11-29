@@ -12,4 +12,5 @@ DailyRanking_1128.csv
 
 YearlyRanking_2020.csv
   2020年トップ30、上半期30、下半期30の順で90件が集計
+  https://www.uta-net.com/close_up/2020_ranking
 ```
