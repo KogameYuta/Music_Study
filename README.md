@@ -7,6 +7,8 @@
 * [歌詞分析するためにWebScrapingしてみた。](https://qiita.com/Yodaka_ay/items/0aee46e8ec68497e1700)
 
 ```
+path: "C:\Users\chibi\Python\music_word.ipynb"
+
 DailyRanking_1128.csv
   2021年11月28日記録のトップ50の曲の歌詞を集計
 
