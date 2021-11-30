@@ -16,3 +16,12 @@ YearlyRanking_2020.csv
   2020年トップ30、上半期30、下半期30の順で90件が集計
   https://www.uta-net.com/close_up/2020_ranking
 ```
+
+
+## 歌詞研究のためのスクレイピング_改
+*[まとめてスクレイピングしちゃいたいよね。](https://qiita.com/Yodaka_ay/items/2da4680917784eb91f49)
+
+```
+path: "C:\Users\chibi\Python\re_music_word2.ipynb"
+
+```
